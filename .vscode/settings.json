@@ -1,4 +1,4 @@
-{
+/*{
     "editor.formatOnSave": true,
     "emmet.showExpandedAbbreviation": "never",
     "html.hover.documentation": true,
@@ -11,3 +11,4 @@
         "css"
     ]
 }
+    */
